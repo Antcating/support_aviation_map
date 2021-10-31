@@ -5,5 +5,5 @@
 <p align="center">
 <iframe src="aviation.html" height="800" width="100%"></iframe>
 </p>
-Приходите ко мне в [Telegram](https://t.me/regular_patty). <br />
-Для связи: [Telegram](https://t.me/VPxyHNNmRi)
+Приходите ко мне в [Telegram](https://t.me/regular_patty).<br />
+Для связи: [Telegram](https://t.me/VPxyHNNmRi).

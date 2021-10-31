@@ -1,4 +1,4 @@
 Карта содержания самолетов разных типов. 
 ---
 Специально для работников ХАЗа
-<iframe src="index.html" height="500" width="500"></iframe>
+<iframe src="aviation.html" height="500" width="500"></iframe>

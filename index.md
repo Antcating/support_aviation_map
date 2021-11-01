@@ -1,7 +1,7 @@
 Карта содержания самолетов разных типов
 ---
 Карта отображает наличие у стран (государственных организаций) самолетов **не ударного** класса по состоянию на 2021 год. <br />
-Информация была получена из [World Air Forces 2021](https://www.flightglobal.com/defence/world-air-forces-2021). 
+Информация была предоставлена Викторией Осиповой ([Telegram](https://t.me/Q23451678) основываясь на [World Air Forces 2021](https://www.flightglobal.com/defence/world-air-forces-2021). 
 <p align="center">
 <iframe src="aviation.html" allowfullscreen height="800" width="100%"></iframe>
 </p>
